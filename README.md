@@ -1,2 +1,5 @@
 # hello-world
-first step
+
+hi!
+
+riskiyanto here, i am studying git now
